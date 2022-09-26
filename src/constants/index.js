@@ -1,0 +1,1 @@
+export const POKEMON_URL = 'http://pokemon.test.dormzi.com/pokemon';
